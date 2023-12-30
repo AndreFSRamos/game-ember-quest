@@ -34,7 +34,6 @@ class EmberQuestGame extends FlameGame
       'heart_half.png',
       'heart.png',
       'star.png',
-      'teste_back.png',
       'ember.png',
       'water_enemy.png',
     ]);
