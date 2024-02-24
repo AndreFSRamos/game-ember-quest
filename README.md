@@ -7,6 +7,9 @@ Game 2D no estilo "Mario Bross" desenvolvido em flutter 3.16.2, utilizando a lib
 [VERSÃO DE TESTE PARA WINDOWS](https://firebasestorage.googleapis.com/v0/b/mywebsite-ca4bd.appspot.com/o/game_amber_quest.rar?alt=media&token=9d3b1975-4833-4693-824b-af35387f77d0)
 Basta descompactar com o WinRAR ou WinZip e executar o arquivo "game_rpg.exe".
 
+## Ilustração
+![image](https://github.com/AndreFSRamos/game-ember-quest/assets/88846666/384f595c-f1dc-4e8a-bcc2-2c1fd378f61a)
+
 ## Requisitos
 
 ### Funcionais
@@ -25,7 +28,7 @@ Basta descompactar com o WinRAR ou WinZip e executar o arquivo "game_rpg.exe".
 - RNF005: O cenário de ser um scroll infinito na horizontal com obstáculos e inimigos posicionados de forma aleatória.
 - RNF006: O objetivo do game deve ser a coleta de "Stars" à medida que o personagem avança pelo cenário.
 - RNF007: O personagem deve iniciar o game com 3 vidas, ao colidir um inimigo, uma vida deve ser subtraída, se o total de vidas for 0 (zero), o jogo deve dar game over.
-- RNF0083: ao cair em um espaço vazio, o game deve dar game over.
+- RNF008: ao cair em um espaço vazio, o game deve dar game over.
 
 ## Recursos Necessários
 
